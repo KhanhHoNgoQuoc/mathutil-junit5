@@ -28,7 +28,7 @@ public class MathUtilityTest {
                 {2,2},
                 {5,120},
                 {6,720},
-                {5,720},
+                
         };
     }
     @ParameterizedTest
